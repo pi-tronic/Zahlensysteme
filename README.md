@@ -6,4 +6,4 @@ Man kann in die Alphabete alle möglichen Zeichen einsetzen. Damit das Script di
 Dadurch ist `,` aber auch ein ungeeignetes Zeichen!
 
 ---
-<img src="https://github.com/pi-tronic/Zahlensysteme/blob/main/screenshots/screenshot_01.png" width="400" height="400">
+<img src="https://github.com/pi-tronic/Zahlensysteme/blob/main/screenshots/screenshot_01.png" width="400" height="200">
